@@ -1,6 +1,6 @@
 {
   "name": "Threadfin IPTV Proxy",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "slug": "threadfin",
   "description": "Threadfin IPTV restream proxy for M3U playlists",
   "startup": "services",
